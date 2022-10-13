@@ -1,0 +1,15 @@
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+Z:\Projects\badom\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

@@ -1,0 +1,8 @@
+Z:\Projects\badom\ConsoleApp1\bin\Debug\ConsoleApp1.deps.json
+Z:\Projects\badom\ConsoleApp1\bin\Debug\ConsoleApp1.runtimeconfig.json
+Z:\Projects\badom\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+Z:\Projects\badom\ConsoleApp1\bin\Debug\ConsoleApp1.dll
+Z:\Projects\badom\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+Z:\Projects\badom\ConsoleApp1\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+Z:\Projects\badom\ConsoleApp1\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+Z:\Projects\badom\ConsoleApp1\obj\Debug\docker-compose.dcproj.CopyComplete

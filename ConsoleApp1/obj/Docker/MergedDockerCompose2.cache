@@ -1,0 +1,27 @@
+services:
+  consoleapp1:
+    build:
+      context: Z:\Projects\badom\ConsoleApp1
+      dockerfile: ConsoleApp1/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: ConsoleApp1
+      target: base
+    container_name: ConsoleApp1_1
+    entrypoint: tail -f /dev/null
+    environment:
+      NUGET_FALLBACK_PACKAGES: ''
+    image: consoleapp1:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages  "/app/bin/Debug/net6.0/ConsoleApp1.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    tty: true
+    volumes:
+    - Z:\Projects\badom\ConsoleApp1\ConsoleApp1:/app:rw
+    - C:\Users\kolup\vsdbg\vs2017u5:/remote_debugger:rw
+    - C:\Users\kolup\.nuget\packages:/root/.nuget/packages:ro
+    - Z:\Projects\badom\ConsoleApp1:/src:rw
+version: '3.4'

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXBwAMEUEkg/niX4wDzG1nZX3Wmce+iF5NPr8GaHvIQEP6QzaKvrQK0BUy+LtRk7W9t0rRvgTap0cVh1GwBFuw==",
+  "success": true,
+  "projectFilePath": "Z:\\Projects\\badom\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolup\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
