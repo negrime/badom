@@ -3,6 +3,8 @@ version: '3.4'
 services:
   consoleapp1:
     image: ${DOCKER_REGISTRY-}consoleapp1
+    stdin_open: true # docker run -i
+    tty: true   
     build:
       context: .
       dockerfile: ConsoleApp1/Dockerfile

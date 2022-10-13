@@ -3,7 +3,7 @@ version: '3.4'
 services:
   consoleapp1:
     image: consoleapp1:dev
-    container_name: ConsoleApp1
+    container_name: ConsoleApp1_1
     build:
       target: base
       labels:
